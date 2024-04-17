@@ -1,6 +1,4 @@
 ﻿// Declare variables
-using System.Xml.Linq;
-
 string firstName;
 string lastName;
 int age;
